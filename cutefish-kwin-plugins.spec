@@ -7,7 +7,7 @@
 
 Name: cutefish-%{component_name}
 Version: 0.5
-Release: 2%{?dist}
+Release: 3%{?dist}
 License: GPLv3
 Summary: Some configurations and plugins of KWin for Cutefish Desktop
 
